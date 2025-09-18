@@ -31,9 +31,9 @@ Um projeto simples e funcional de sorteio de números aleatórios, desenvolvido 
 ---
 ## 🖥️ Tecnologias utilizadas
 
-- HTML5  
-- CSS3  
-- JavaScript (vanilla)
+- HTML  
+- CSS 
+- JavaScript
 
 ---
 ## 🚀 Hospedagem
